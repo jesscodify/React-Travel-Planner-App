@@ -1,5 +1,8 @@
 # This is a simple React app that recommends the best travel destination among four places using conditional rendering and props.
 
+![screencapture-localhost-3000-2023-09-06-21_02_16](https://github.com/jesscodify/React-Travel-Planner-App/assets/93216297/d7e246ac-16b3-4eee-8ffc-aea31796e4bd)
+
+
 # Objective
 The objective of this project is to build a React app that provides travel recommendations by rendering four travel destinations and determining the best place based on specific criteria.
 
